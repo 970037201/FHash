@@ -1,5 +1,5 @@
 # FHash
-A very large potentially cryptographically secure pseudo random generator
+A very large potentially cryptographically secure hash function - 16KiB blocks
 
 This is made for a super large, 16 KiB size state hash function - which in CTR mode can be used as a random number generator.
 
